@@ -17,8 +17,7 @@ public class substore_page extends StartupPage {
 
 	public substore_page(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
-	}
+	}	
 
 	public By getAnchorTagLocatorByText(String anchorTagName) {
 		return By.xpath(" ");
